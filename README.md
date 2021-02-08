@@ -1,2 +1,4 @@
-# selenium_course_step_3_6
-Task from Stepik Course Automation with Selenium_Step 3.6
+# Stepik Course: Автоматизация тестирования с помощью Selenium и Python
+## 3.6 PyTest — параметризация, конфигурирование, плагины
+## Задание: запуск автотестов для разных языков интерфейса
+
